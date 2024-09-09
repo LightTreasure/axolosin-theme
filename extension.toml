@@ -1,0 +1,7 @@
+id = "axolosin"
+name = "Axolosin Theme"
+description = "An Axolotl-inspired resin theme for Zed"
+version = "0.0.1"
+schema_version = 1
+authors = ["Alok Meshram <meshram.alok@gmail.com>"]
+repository = "https://github.com/LightTreasure/zed-axolosin-theme"
