@@ -40,9 +40,9 @@
         "element.disabled":                               "#626262FF",
 
         "ghost_element.background":                       "#00000000",
-        "ghost_element.hover":                            "#20202077",
+        "ghost_element.hover":                            "#61104860",
         "ghost_element.active":                           "#393939D0",
-        "ghost_element.selected":                         "#111111FF",
+        "ghost_element.selected":                         "#310838AA",
         "ghost_element.disabled":                         "#515151FF",
 
         "text":                                           "#D7D7D7FF",
