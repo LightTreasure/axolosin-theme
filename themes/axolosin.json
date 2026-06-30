@@ -1,8 +1,8 @@
 {
-  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
   "name": "Axolosin",
-  "version": "1.1.1",
-  "author": "Alok Meshram <meshram.alok@gmail.com>",
+  "version": "1.2.0",
+  "author": "Alok Meshram <alok.m.prgm@protonmail.com>",
   "themes": [
     {
       "name": "Axolosin",
